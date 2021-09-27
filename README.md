@@ -1,4 +1,4 @@
 # StocksPrices
 Приложение для получения стоимости акций.
-Использовалость:
+Использовалось:
 Swift, SPM, MVP, Kingfisher, UIKit
